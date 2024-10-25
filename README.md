@@ -1,4 +1,4 @@
-## Hi there 👋
+- Hi there, I'm Alemayehu Taye 👋
 
 <!--
 **alex-taye/alex-taye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to Reach Me: Connect with me on [LinkedIn](https://linkedin.com/in/alex2446) or send an [Email](mailto:alemayehutaye.econ@gmail.com).
+
+
